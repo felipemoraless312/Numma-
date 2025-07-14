@@ -12,28 +12,28 @@ const ServicesPage = () => {
       title: 'Software Médico',
       description: 'Desarrollo de historiales clínicos digitales, sistemas de monitoreo en tiempo real y análisis predictivos para mejorar la atención médica.',
       features: ['Historiales electrónicos seguros', 'Monitoreo en tiempo real', 'Análisis predictivos con IA', 'Integración con dispositivos'],
-      price: 'Desde $15,000 USD'
+      //price: 'Desde $15,000 USD'
     },
     {
       icon: <Code className="w-12 h-12" />,
       title: 'Soluciones Empresariales',
       description: 'Automatización de procesos, dashboards inteligentes y aplicaciones personalizadas para optimizar la productividad empresarial.',
       features: ['Automatización de procesos', 'Dashboards ejecutivos', 'Apps móviles empresariales', 'Integración con sistemas'],
-      price: 'Desde $8,000 USD'
+      //price: 'Desde $8,000 USD'
     },
     {
       icon: <Brain className="w-12 h-12" />,
       title: 'Inteligencia Artificial',
       description: 'Implementación de modelos de machine learning y deep learning para análisis predictivo y automatización inteligente.',
       features: ['Machine learning personalizado', 'Análisis predictivo', 'Procesamiento de lenguaje', 'Visión computacional'],
-      price: 'Desde $12,000 USD'
+      //price: 'Desde $12,000 USD'
     },
     {
       icon: <Shield className="w-12 h-12" />,
       title: 'Consultoría Tecnológica',
       description: 'Asesoría especializada en transformación digital, arquitectura de software y estrategias tecnológicas.',
       features: ['Auditoría de sistemas', 'Transformación digital', 'Arquitectura escalable', 'Roadmap tecnológico'],
-      price: 'Desde $3,000 USD'
+      //price: 'Desde $3,000 USD'
     }
   ];
 

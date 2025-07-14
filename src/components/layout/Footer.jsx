@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="col-span-2">
             <div className="text-2xl font-light mb-4">
-              CFE <span className="text-blue-400">Aeon</span>
+              Numma
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
               Innovación que transforma la salud y el futuro digital. 
@@ -38,18 +38,18 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li className="flex items-center">
                 <Mail className="w-4 h-4 mr-2" />
-                <span className="text-sm">info@cfeaeon.com</span>
+                <span className="text-sm">numma2contact@gmail.com</span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-4 h-4 mr-2" />
-                <span className="text-sm">+52 961 123 4567</span>
+                <span className="text-sm">+52 962 107 8686</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 CFE Aeon. Todos los derechos reservados.</p>
+          <p>&copy; 2025 Numma Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

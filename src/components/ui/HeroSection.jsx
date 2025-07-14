@@ -31,7 +31,7 @@ const HeroSection = () => {
         isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
       }`}>
         <h1 className="text-6xl md:text-8xl font-thin text-white mb-6 tracking-tight">
-          CFE <span className="text-blue-400 font-light">Aeon</span>
+          Numma 
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-4xl mx-auto leading-relaxed">
           Innovación que transforma la salud y el futuro digital
