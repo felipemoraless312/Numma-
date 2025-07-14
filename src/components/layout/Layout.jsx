@@ -1,17 +1,11 @@
-import React from 'react'
-import Header from './Header'
-import Footer from './Footer'
+import React from 'react';
 
 const Layout = ({ children }) => {
   return (
     <div className="min-h-screen bg-white">
-      <Header />
-      <main>
-        {children}
-      </main>
-      <Footer />
+      {children}
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
