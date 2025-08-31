@@ -63,7 +63,7 @@ const TeamPage = () => {
       id: 2,
       name: 'Luis Felipe Morales Gutiérrez',
       role: 'Co-fundador & CTO',
-      profession: 'Ingeniero Biomédica',
+      profession: 'Ingeniero Biomédico',
       experience: '3 años de experiencia',
       education: 'Ingeniería Biomédica - Universidad POlitecnica de Chiapas',
       specialization: 'Sistemas médicos digitales ',
